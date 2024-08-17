@@ -1,0 +1,13 @@
+{
+    "Name":"Your System's Name",
+    "Author":"Your Rotur Account Name",
+    "startup":[
+        "/sys/crl/files"
+    ],
+    "files":[
+        {
+            "location":"/files.crl",
+            "directory":"/sys/crl/files.crl"
+        }
+    ]
+}
